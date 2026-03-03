@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Me chamo Alex Santos</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas" alt="Typing SVG" />
